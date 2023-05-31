@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Therese Gordon.
+
+I am a recent coding bootcamp grad looking to continue to learn and develop skills.
+
 <!--
 **therese-gordon/therese-gordon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
